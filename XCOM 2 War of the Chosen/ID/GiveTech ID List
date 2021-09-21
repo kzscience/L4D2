@@ -1,0 +1,84 @@
+givetech [tech id]
+This console command will research the technology with the specified ID. 
+
+Tech ID - The ID of the technology you wish to research.
+
+- Autopsy - 
+Advent MEC Breakdown | AutopsyAdventMEC
+Advent Officer Autopsy AutopsyAdventOfficer
+Advent Priest Autopsy | AutopsyAdventPriest
+Advent Purifier Autopsy | AutopsyAdventPurifier
+Advent Shieldbearer Autopsy | AutopsyAdventShieldbearer
+Advent Stun Lancer Autopsy | AutopsyAdventStunLancer
+Advent Trooper Autopsy | AutopsyAdventTrooper
+Advent Turret Breakdown | AutopsyAdventTurret
+Alien Biotech | AlienBiotech
+Andromedon Autopsy | AutopsyAndromedon
+Archon Autopsy | AutopsyArchon
+Archon King Autopsy | AutopsyArchonKing
+Avatar Autopsy | AutopsyAdventPsiWitch
+Berserker Autopsy | AutopsyBerserker
+Berserker Queen Autopsy | AutopsyBerserkerQueen
+Chryssalid Autopsy | AutopsyChryssalid
+Faceless Autopsy | AutopsyFaceless
+Gatekeeper Autopsy | AutopsyGatekeeper
+Muton Autopsy | AutopsyMuton
+Sectoid Autopsy | AutopsySectoid
+Sectopod Breakdown | AutopsySectopod
+Spectre Autopsy | AutopsySpectre
+The Lost Autopsy | AutopsyTheLost
+Viper Autopsy | AutopsyViper
+Viper King Autopsy | AutopsyViperKing
+
+- Armor -
+E.X.O. Suit | EXOSuit
+Icarus Armor  | IcarusArmor
+Plated Armor | PlatedArmor
+Powered Armor | PoweredArmor
+R.A.G.E. Suit | RAGESuit
+Serpent Suit | SerpentSuit
+Spider Suit | SpiderSuit
+W.A.R. Suit | WARSuit
+Wraith Suit | WraithSuit
+
+- Weapon - 
+Beam Cannon | HeavyPlasma
+Bolt Caster | BoltCaster
+Gauss Weapons | GaussWeapons
+Hunter Axe | HuntersAxe
+Magnetized Weapons | MagnetizedWeapons
+Modular Weapons | ModularWeapons
+Plasma Lance | PlasmaSniper
+Plasma Rifle | PlasmaRifle
+Shadowkeeper | Shadowkeeper
+Storm Gun | AlloyCannon
+
+- Experimental -
+Experimental Powered Weapon | AdvancedHeavyWeapons
+Experimental Heavy Weapon | HeavyWeapons
+Experimental Weapons | ExperimentalWeapons
+Experimental Ammo | ExperimentalAmmo
+Experimental Armor | ExperimentalArmor
+Experimental Grenades | ExperimentalGrenade
+
+Blacksite Vial | BlacksiteData
+Codex Brain | CodexBrainPt1
+Encrypted Codex Data | CodexBrainPt2
+Skulljack | Skulljack
+Hybrid Materials | HybridMaterials
+
+- Grenade - 
+Advanced Grenades | AdvancedGrenades
+Frostbomb  | Frostbomb
+Plasma Grenades | PlasmaGrenade
+
+- Spark - 
+Spark | BuildSpark
+Mechanized Warfare | MechanizedWarfare
+
+- Other -
+Battlefield Medicine | BattlefieldMedicine
+Bluescreen Protocol | Bluescreen
+Skull Mining | Skullmining
+Psionics | Psionics
+Elerium | Tech_Elerium

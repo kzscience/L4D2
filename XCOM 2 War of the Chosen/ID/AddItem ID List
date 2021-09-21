@@ -1,0 +1,233 @@
+additem [item id] [amount]
+This console command will give you the item with the specified ID. You can optionally specify an amount of the item that you wish to add.
+
+Item ID - The item ID of the item you wish to add.
+Amount - The amount of the item that you wish to give yourself.
+
+- Weapon - 
+Advanced Grenade | Launcher 	GrenadeLauncher_MG
+Advanced Psi Amp | PsiAmp_MG
+Alien Psi Amp | PsiAmp_BM
+Arc Blade | Sword_MG
+Beam Cannon | Cannon_BM
+Beam Pistol | Pistol_BM
+Blaster Launcher | BlasterLauncher
+Bolt Caster  | AlienHunterRifle_CV
+Enhanced Shadowkeeper | AlienHunterPistol_MG
+Flamethrower | Flamethrower
+Fusion Axe | AlienHunterAxe_BM
+Fusion Blade | Sword_BM
+GREMLIN Mark II | Gremlin_MG
+GREMLIN Mark III | Gremlin_BM
+Gauss Rifle | SniperRifle_MG
+Hellfire Porjector | FlamethrowerMk2
+Hunter Axe | AlienHunterAxe_CV
+Ionic Axe  | AlienHunterAxe_MG
+Mag Cannon | Cannon_MG
+Mag Pistol | Pistol_MG
+Magnetic Bolt Caster  | AlienHunterRifle_MG
+Magnetic Rifle | AssaultRifle_MG
+Plasma Blaster | PlasmaBlaster
+Plasma Lance | SniperRifle_BM
+Plasma Rifle | AssaultRifle_BM
+Powered Bolt Caster  | AlienHunterRifle_BM
+Powered Shadowkeeper  | AlienHunterPistol_BM
+Shadowkeeper  | AlienHunterPistol_CV
+Shard Shotgun | Shotgun_MG
+Shredder Gun | ShredderGun
+Shredstorm Cannon | ShredstormCannon
+Storm Shotgun | Shotgun_BM 
+SPARK BIT | SparkBit_CV
+SPARK BIT Mark II | SparkBit_MG
+SPARK BIT Mark III | SparkBit_BM
+
+- TLE Weapon - 
+Advanced Blade | TLE_Sword_BM
+Anti-Materiel Rifle | TLE_SniperRifle_MG
+Augmented Shotgun | TLE_Shotgun_MG
+Energy AMR | TLE_SniperRifle_BM
+Energy Cannon | TLE_Cannon_BM
+Energy Pistol | TLE_Pistol_BM
+Energy Sweeper | TLE_Shotgun_BM
+Experimental Blade | TLE_Sword_MG
+Improvised Magnetic Rifle | TLE_AssaultRifle_MG
+Light machine Gun | TLE_Cannon_CV
+Magnetic Support Cannon | TLE_Cannon_MG
+Marksman Rifle | TLE_SniperRifle_CV
+Old-world Assault Rifle | TLE_AssaultRifle_CV
+Prototype Plasma Rifle | TLE_AssaultRifle_BM
+Rail Pistol | TLE_Pistol_MG
+Scattergun | TLE_Shotgun_CV
+Traditional Handgun | TLE_Pistol_CV
+Traditional Sword | TLE_Sword_CV
+
+- Faction Weapon -
+Celestial Gauntlets | ShardGauntlet_BM
+Fusion Ripjack | WristBlade_BM
+Ionic Ripjack | WristBlade_MG
+Kal-15 Bullpup | Bullpup_MG
+Kal-90 Bullpup | Bullpup_BM
+Shadow Lance | VektorRifle_BM
+Temnotic Rifle | VektorRifle_MG
+Tempest Gauntlets | ShardGauntlet_MG
+
+- Chosen Weapon - 
+Arashi  | ChosenShotgun_XCOM
+Darkclaw | ChosenSniperPistol_XCOM
+Darklance | ChosenSniperRifle_XCOM
+Disruptor Rifle | ChosenRifle_XCOM
+Katana | ChosenSword_XCOM
+
+- Upgrade -
+Advanced Auto-Loader | ReloadUpgrade_adv
+Advanced Expanded Magazine | ClipsizeUpgrade_adv
+Advanced Hair Trigger | FreeFireUpgrade_adv
+Advanced Laser Sight | CritUpgrade_adv
+Advanced Repeater | FreeKillUpgrade_adv
+Advanced Scope | AimUpgrade_adv
+Advanced Stock | MissDamageUpgrade_adv
+Auto-Loader | ReloadUpgrade_bsc
+Expanded Magazine | ClipsizeUpgrade_bsc
+Hair Trigger | FreeFireUpgrade_bsc
+Laser Sight | CritUpgrade_bsc
+Repeater | FreeKillUpgrade_bsc
+Scope | AimUpgrade_bsc
+Stock | MissDamageUpgrade_bsc
+Superior Auto-Loader | ReloadUpgrade_sup
+Superior Expanded Magazine | ClipsizeUpgrade_sup
+Superior Hair Trigger | FreeFireUpgrade_sup
+Superior Laser Sight | CritUpgrade_sup
+Superior Repeater | FreeKillUpgrade_sup
+Superior Scope | AimUpgrade_sup
+Superior Stock | MissDamageUpgrade_sup
+
+- Grenade -
+Acid Bomb | AcidGrenadeMk2
+Acid Grenade | AcidGrenade
+Claymore | Reaper_Claymore
+EMP Bomb | EMPGrenadeMk2
+EMP Grenade | EMPGrenade
+Flashbang Grenade | FlashbangGrenade
+Frost Bomb | Frostbomb
+Gas Bomb | GasGrenadeMk2
+Gas Grenade | GasGrenade
+Incendiary Bomb | FirebombMk2
+Incendiary Grenade | Firebomb
+Plasma Grenade | AlienGrenade
+Proximity Mine | ProximityMine
+Smoke Bomb | SmokeGrenadeMk2
+Smoke Grenade | SmokeGrenade
+
+- Ammo -
+AP Rounds | ApRounds
+Bluescreen Rounds | BluescreenRounds
+Dragon Rounds | IncendiaryRounds
+Talon Rounds | TalonRounds
+Tracer Rounds | TracerRounds
+Venom Rounds | VenomRounds
+
+- Armor - 
+EXO Suit | HeavyPlatedArmor
+Enhanced Grenadier Field Armor | GrenadierPlatedArmor
+Enhanced Psi Operative Field Armor | PsiOperativePlatedArmor
+Enhanced Ranger Field Armor | RangerPlatedArmor
+Enhanced Sharpshooter Field Armor | SharpshooterPlatedArmor
+Enhanced Specialist Field Armor | SpecialistPlatedArmor
+Icarus Armor (Grounds Upgrade) | MediumAlienArmorMk2
+Icarus Armor | MediumAlienArmor
+Improvised Grenadier Field Armor | GrenadierKevlarArmor
+Improvised Psi Operative Field Armor | PsiOperativeKevlarArmor
+Improvised Ranger Field Armor | RangerKevlarArmor
+Improvised Sharpshooter Field Armor | SharpshooterKevlarArmor
+Improvised Specialist Field Armor | SpecialistKevlarArmor
+Plated Reaper Armor | PlatedReaperArmor
+Plated Skirmisher Armor | PlatedSkirmisherArmor
+Plated Templar Armor | PlatedTemplarArmor
+Powered Grenadier Field Armor | GrenadierPoweredArmor
+Powered Psi Operative Field Armor | PsiOperativePoweredArmor
+Powered Ranger Field Armor | RangerPoweredArmor
+Powered Reaper Armor | PoweredReaperArmor
+Powered Sharpshooter Field Armor | SharpshooterPoweredArmor
+Powered Skirmisher Armor | PoweredSkirmisherArmor
+Powered Specialist Field Armor | SpecialistPoweredArmor
+Powered Templar Armor | PoweredTemplarArmor
+Predator Armor | MediumPlatedArmor
+R.A.G.E. Armor | HeavyAlienArmorMk2
+R.A.G.E. Suit | HeavyAlienArmor
+Serpent Armor | LightAlienArmorMk2
+Serpent Suit | LightAlienArmor
+Spider Suit | LightPlatedArmor
+W.A.R. Suit | HeavyPoweredArmor
+Warden Armor | MediumPoweredArmor
+Wraith Suit | LightPoweredArmor
+
+- Utility Item -
+Battle Scanner | BattleScanner
+Hazmat Vest | HazmatVest
+Hellweave | Hellweave
+Medikit | Medikit
+Mimic Beacon | MimicBeacon
+Mind Shield | MindShield
+Nanomedikit | NanoMedikit
+Nanoscale Vest | NanoFibreVest
+Overdrive Serum | CombatStims
+Plated Vest | PlatedVest
+Refraction Field | RefractionField
+Skulljack | Skulljack
+Stasis Vest | StasisVest
+Sustaining Sphere | SustainingSphere
+Ultrasonic Lure | UltrasonicLure
+
+- Personal Combat Sims -
+Advanced Agility | RarePCSAgility
+Advanced Conditioning | RarePCSConditioning
+Advanced Focus | RarePCSFocus
+Advanced Perception | RarePCSPerception
+Advanced Speed | RarePCSSpeed
+Epic Agility | EpicPCSAgility
+Epic Conditioning | EpicPCSConditioning
+Epic Focus | EpicPCSFocus
+Epic Perception | EpicPCSPerception
+Epic Speed | EpicPCSSpeed
+
+- Common -
+Agility | CommonPCSAgility
+Conditioning | CommonPCSConditioning
+Focus | CommonPCSFocus
+Perception | CommonPCSPerception
+Speed | CommonPCSSpeed  
+
+- Resource -
+Ability Point | Abilitypoint
+Alien Alloys |	AlienAlloy
+Elerium Core |	EleriumCore
+Elerium Crystals |	EleriumDust
+Intel | Intel
+Supplies | Supplies
+
+- Corpse -
+Advent MEC Wreck | CorpseAdventMEC
+Advent Officer Corpse | CorpseAdventOfficer
+Advent Priest Corpse | CorpseAdventPriest
+Advent Purifier Corpse | CorpseAdventPurifier
+Advent Shieldbearer Corpse | CorpseAdventShieldbearer
+Advent Stun Lancer Corpse | CorpseAdventStunLancer
+Advent Trooper Corpse | CorpseAdventTrooper
+Advent Turret Wreck | CorpseAdventTurret
+Andromedon Corpse | CorpseAndromedon
+Archon Corpse | CorpseArchon
+Archon King Corpse | CorpseArchonKing
+Avatar Corpse | CorpseAdventPsiWitch
+Berserker Corpse | CorpseBerserker
+Berserker Queen Corpse | CorpseBerserkerQueen
+Chryssalid Corpse | CorpseChryssalid
+Codex Brain | CorpseCyberus
+Faceless Corpse | CorpseFaceless
+Gatekeeper Corpse | CorpseGatekeeper
+Muton Corpse | CorpseMuton
+Sectoid Corpse | CorpseSectoid
+Sectopod Corpse | CorpseSectopod
+Spectre Corpse  | CorpseSpectre
+The Lost Corpse  | CorpseTheLost
+Viper Corpse | CorpseViper
+Viper King Corpse | CorpseViperKing

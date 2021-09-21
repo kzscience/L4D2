@@ -1,0 +1,79 @@
+The console in XCOM 2 can be enabled by adding -allowconsole to your game's launch options. You can then open it from the game by pressing the ~, ', or \ key on your keyboard
+
+
+- Commands - 
+giveresource [resource id] [amount] // This console command will give you the resource with the specified ID. You can also specify an amount of the resource you wish to add - e.g. 100. You must have at least one of the resource you wish to add in order for this to work. Use the additem command to add a resource if you don't already have one.
+
+additem [item id] [amount] // This console command will give you the item with the specified ID. You can optionally specify an amount of the item that you wish to add.
+
+givehackreward [hack reward id] // This console command will give you the hack reward with the specified ID.
+
+giveactionpoints [amount] // This console command will give the unit that you currently have selected the specified amount of action points.
+
+givescientist [level] // This console command will give you a scientist of the specified level. Note that you can only have one scientist at once, so this will replace your existing scientist.
+
+giveengineer [level] This console command will give you an engineer of the specified level. Note that you can only have one engineer at once, so this will replace any existing engineer that you have.
+
+givetech [tech id] This console command will research the technology with the specified ID.
+
+givefacility [facility id] [avenger/map index] // This console command will give you the facility with the specified ID at the specified position.If there is an existing facility, debris, or ongoing construction at the position you specify, This console command will not do anything. The game may not update instantly after using This console command - switching screens (e.g. going into the Geoscape and back) will apply changes.
+
+setsoldierstat [stat id] [value] [soldier name] [0 / 1] // This console command will set the stat of the specified solider to the specified value. If you are using the WOTC DLC, you will also need to specify the 0/1 argument at the end of the command.
+
+makesoldieraclass ["soldier name"] [class id] // This console command sets the class of the soldier with the specified name. Note that this will demote your soldier to squaddie rank, and that you should make a save before using This console command, as some classes can break your game.
+
+removefortressdoom [amount] // This console command removes the specified amount of doom from the Avatar Project.
+
+forcecompleteobjective [objective id] // This command will complete the specified objective for your current mission. Complete all of your mission objectives with this command before using the endbattle command to win your current mission.
+
+endbattle [0 / 1] //  	This command will end your current mission. If all objectives are completed, you will win the mission, otherwise you will fail. Complete all mission objectives with the ForceCompleteObjective command before using this to win your mission.
+
+bondsoldiers ["soldier name"] ["soldier name"] [true / false] // This console command bonds (true), or unbonds (false), the two specified soldiers.
+
+skipai // This console command makes the AI skip a turn (i.e. this will end the AIs turn and make it your turn).
+
+powerup // This console command enables and disables (toggles) god mode for all of your squad (not AI). When in god mode, your squad will not have to reload, and will not take any damage (unlimited health).
+
+takenodamage // This console command enables and disables (toggles) invincibility for all of your soliders.
+
+toggleunlimitedactions // This console command enables and disables (toggles) unlimited action points for both you and the AI (well, APs will not be used up). Note that if you use this on the AIs turn, the AI will not run out of action points.
+
+forcecrithits // This console command enables and disables (toggles) 100% chance for both your squad and the AI to hit critical hits - i.e. with this enabled, every hit will be a critical hit.
+
+givecontinentbonus [continent bonus id] // This console command will give you the specified continent bonus.
+
+toggleunlimitedammo // This console command enables and disables (toggles) unlimited ammunition for both your squad and the AI. Turn on at the start of your turn, and off at the end, to avoid giving the AI unlimited ammo.
+
+togglefow // This console command enables and disables (toggles) Fog of War (FoW). Fog of War is the fog that covers the map in out-of-reach places.
+
+togglesquadconcealment // This console command enables and disables (toggles) the concealment of your squad. Aliens that are already aware of any solider(s) location, will remain aware regardless of whether this is on or off.
+
+ttc // This console command will teleport the unit that you currently have selected to the location in the game that your mouse cursor is over.
+
+tatc // This console command will teleport all units to the location in the map that your mouse cursor is over.
+
+levelupbarracks [amount] // This console command will level up all soldiers in your barracks by the specified amount of levels.
+
+healallsoldiers // This command heals all soldiers currently in your barracks to full HP.
+
+givefactionsoldiers // This console command will give you a soldier from each Faction in the War of the Chosen. The three Factions are Reaper, Skirmisher, and Templar.
+
+giveabilitycharges // NOTE: This command has been reported as "buggy" - make sure you save your game before using it. This command should add 100 charges to all of your abilities, excluding class abilities.
+
+restartlevel // This command will restart your current mission.
+
+restartlevelwithsameseed // This console command will restart your current mission with the same seed that it was generated with. This means all of the random aspects of the game (e.g. spawn locations) will be the exact same as they were when you first started.
+
+pause // This command will toggle the pause state for the game (i.e. if paused, it will unpause, if not paused, it will pause).
+
+slomo [multiplier] // This command will fast forward or slow down the game - i.e. it will change the speed the game runs at. A multiplier of 2 would make everything in the game be twice as fast, a multiplier of 0.5 would make the game run in slowmotion, half as fast as it usually would.
+
+screenshot // This command will take a screenshot of your game and save it to Documents\My Games\XCOM2\XComGame\Screenshots\PCConsole.
+
+listtextures // This command lists all texture files that are currently loaded by the game.
+
+listsounds // This command lists all sound files that are currently loaded by the game.
+
+togglerain // This command will enable or disable (toggle) rain.
+
+changelist // This command will print to the console log a list of the most recent changes in the game.

@@ -1,0 +1,20 @@
+givecontinentbonus [continent bonus id]
+This console command will give you the specified continent bonus. 
+
+Continent Bonus ID - The ID of the continent bonus that you wish to give yourself.
+
+- Bonus -
+All In | ContinentBonus_AllIn
+Armed To The Teeth | ContinentBonus_ArmedToTheTeeth
+Fire When Ready | ContinentBonus_FireWhenReady
+Future Combat | ContinentBonus_FutureCombat
+Helping Hand | ContinentBonus_HelpingHand
+Hidden Reserves | ContinentBonus_HiddenReserves
+Lock And Load | ContinentBonus_LockAndLoad
+Pursuit Of Knowledge | ContinentBonus_PursuitOfKnowledge
+Quid Pro Quo | ContinentBonus_QuidProQuo
+Spare Parts | ContinentBonus_SpareParts
+Spy Ring | ContinentBonus_SpyRing
+Suit Up | ContinentBonus_SuitUp
+To Serve Mankind | ContinentBonus_ToServeMankind
+Under The Table | ContinentBonus_UnderTheTable

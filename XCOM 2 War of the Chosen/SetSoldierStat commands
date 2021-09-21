@@ -1,0 +1,27 @@
+setsoldierstat [stat id] [value] [soldier name] [0 / 1]
+This console command will set the stat of the specified solider to the specified value. If you are using the WOTC DLC, you will also need to specify the 0/1 argument at the end of the command.
+
+Stat ID - The ID of the soldier's stat you wish to change the value of.
+Value - The value you wish to set the stat to.
+Soldier Name - The name of the soldier that you wish to set the stat of. If this command isn't working, try putting the name in quotation marks - e.g. "Nurkaliev Dinmukhamed ", not just Nurkaliev Dinmukhamed .
+
+0 / 1 - Only required if you are playing with the WOTC DLC. Specify '1' (without quotes) here to change the soldier's base stat. Specify '0' (without quotes here) to not change the soldier's base stat.
+
+- Stat -
+Armor Migration Trigger Chance | eStat_ArmorChance
+Armor | eStat_ArmorMitigation
+PCM Slot (1 to allow unit to use) | eStat_CombatSims
+Critical Hit Chance | eStat_CritChance
+Enemies Detection Range | eStat_DetectionRadius
+Dodge | eStat_Dodge
+Flanking Aim Bonus | eStat_FlankingAimBonus
+Flanking Critical Hit Chance | eStat_FlankingCritChance
+Hacking | eStat_Hacking
+Health | eStat_HP
+Mobility | eStat_Mobility
+Aim | eStat_Offense
+Psi Offence | eStat_PsiOffense
+Sight radius | eStat_SightRadius
+Melee Attack Effect Trigger Chance | eStat_Strength
+Max Utility Items Soldier Can Carry | eStat_UtilityItems
+Max Will | eStat_Will

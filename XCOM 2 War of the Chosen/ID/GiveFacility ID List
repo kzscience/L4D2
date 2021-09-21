@@ -1,0 +1,30 @@
+givefacility [facility id] [avenger/map index]
+This console command will give you the facility with the specified ID at the specified position. If there is an existing facility, debris, or ongoing construction at the position you specify, This console command will not do anything. The game may not update instantly after using This console command - switching screens (e.g. going into the Geoscape and back) will apply changes.
+
+Facility ID - 	The ID of the facility you wish to create.
+
+The index to place the facility at. Avenger indexes:
+
+                  Avenger/Map Index
+_______________________________________________________
+| 3 (Upper Left Corner) |  4  | 5 (Upper Right Corner) |
+|_______________________|_____|________________________|   
+|           6           |  4  |          5             |
+|_______________________|_____|________________________|   
+|           9           | 10  |          11            |
+|_______________________|_____|________________________|
+|12 (Bottom Left Corner)| 13  |14 (Bottom Right Corner)|
+|_______________________|_____|________________________|      
+
+
+- Facility -
+Advanced Warfare Center | AdvancedWarfareCenter
+Laboratory | Laboratory
+Guerilla Tactics School | OfficerTrainingSchool
+Power Relay | PowerRelay
+Proving Grounds | ProvingGround
+Psi Chamber | PsiChamber
+Resistance Comms | ResistanceComms
+Shadow Chamber | ShadowChamber
+UFO Defence | UFODefense
+Workshop | Workshop
