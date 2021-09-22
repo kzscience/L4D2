@@ -4,34 +4,34 @@ This command will complete the specified objective for your current mission. Com
 Objective ID - The ID of the objective you wish to complete.
 
 - Objective - 
+AdventFacilityBLACKSITE | AdventFacilityBLACKSITE, Recover
+AdventFacilityFORGE | AdventFacilityFORGE, Recover
+AdventFacilityPSIGATE | AdventFacilityPSIGATE, Sweep
+AssaultAlienFortress | AssaultAlienFortress, Sweep
+AvengerDefense | AvengerDefense, Defense
+CentralNetworkBroadcast | CentralNetworkBroadcast, Hack
+DefeatHumanOpponent | DefeatHumanOpponent
+DestroyRelay | DestroyRelay, Sweep, DestroyRelay
+ExtractVIP | ExtractVIP, VIP
+HackWorkstation | HackWorkstation, Sweep, Hack
+HackWorkstationADV | HackWorkstationADV, Sweep, Hack
+HackWorkstationTrain | HackWorkstationTrain, Sweep, Hack
+NeutralizeTarget | NeutralizeTarget, Kill, Capture
+NeutralizeTargetVehicle | NeutralizeTargetVehicle, Kill, Capture
+ProtectDevice | ProtectDevice, Sweep, Protect
+RecoverFlightDevice | RecoverFlightDevice, Sweep, Recover
 RecoverItem | RecoverItem, Sweep, Recover
 RecoverItemADV | RecoverItemADV, Sweep, Recover
 RecoverItemTrain | RecoverItemTrain, Sweep, Recover
 RecoverItemVehicle | RecoverItemVehicle, Sweep, Recover
-RecoverFlightDevice | RecoverFlightDevice, Sweep, Recover
-HackWorkstation | HackWorkstation, Sweep, Hack
-HackWorkstationADV | HackWorkstationADV, Sweep, Hack
-HackWorkstationTrain | HackWorkstationTrain, Sweep, Hack
-DestroyRelay | DestroyRelay, Sweep, DestroyRelay
-ProtectDevice | ProtectDevice, Sweep, Protect
-SupplyLineRaidATT | SupplyLineRaidATT, Sweep_Crate_x1, Sweep_Crate_x2, Sweep_Crate_x3, Sweep_Crate_x4, Sweep_Crate_x5, Sweep_Crate_x6
-SupplyLineRaidTrain | SupplyLineRaidTrain, Sweep_Crate_x1, Sweep_Crate_x2, Sweep_Crate_x3, Sweep_Crate_x4, Sweep_Crate_x5, Sweep_Crate_x6
-SupplyLineRaidConvoy | SupplyLineRaidConvoy, Sweep_Crate_x1, Sweep_Crate_x2, Sweep_Crate_x3, Sweep_Crate_x4, Sweep_Crate_x5, Sweep_Crate_x6
-SecureUFO | SecureUFO, Sweep
-ExtractVIP | ExtractVIP, VIP
 RescueVIP | RescueVIP, VIP
 RescueVIPVehicle | RescueVIPVehicle, VIP
-NeutralizeTarget | NeutralizeTarget, Kill, Capture
-NeutralizeTargetVehicle | NeutralizeTargetVehicle, Kill, Capture
-SabotageAlienFacility | SabotageAlienFacility, Sweep, DestroyFacility
-Terror 	Terror, Sweep, Rescue_T1, Rescue_T2, Rescue_T3
-AvengerDefense | AvengerDefense, Defense
-TutorialRescueCommander | TutorialRescueCommander, Tutorial
-DefeatHumanOpponent | DefeatHumanOpponent
 SabotageAdventMonument | SabotageAdventMonument, Sweep
-AdventFacilityBLACKSITE | AdventFacilityBLACKSITE, Recover
-AdventFacilityFORGE | AdventFacilityFORGE, Recover
-AdventFacilityPSIGATE | AdventFacilityPSIGATE, Sweep
-CentralNetworkBroadcast | CentralNetworkBroadcast, Hack
-AssaultAlienFortress | AssaultAlienFortress, Sweep
+SabotageAlienFacility | SabotageAlienFacility, Sweep, DestroyFacility
+SecureUFO | SecureUFO, Sweep
+SupplyLineRaidATT | SupplyLineRaidATT, Sweep_Crate_x1, Sweep_Crate_x2, Sweep_Crate_x3, Sweep_Crate_x4, Sweep_Crate_x5, Sweep_Crate_x6
+SupplyLineRaidConvoy | SupplyLineRaidConvoy, Sweep_Crate_x1, Sweep_Crate_x2, Sweep_Crate_x3, Sweep_Crate_x4, Sweep_Crate_x5, Sweep_Crate_x6
+SupplyLineRaidTrain | SupplyLineRaidTrain, Sweep_Crate_x1, Sweep_Crate_x2, Sweep_Crate_x3, Sweep_Crate_x4, Sweep_Crate_x5, Sweep_Crate_x6
+Terror 	Terror, Sweep, Rescue_T1, Rescue_T2, Rescue_T3
 TestingMission | TestingMission
+TutorialRescueCommander | TutorialRescueCommander, Tutorial
