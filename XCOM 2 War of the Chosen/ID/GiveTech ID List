@@ -61,12 +61,6 @@ Experimental Ammo | ExperimentalAmmo
 Experimental Armor | ExperimentalArmor
 Experimental Grenades | ExperimentalGrenade
 
-Blacksite Vial | BlacksiteData
-Codex Brain | CodexBrainPt1
-Encrypted Codex Data | CodexBrainPt2
-Skulljack | Skulljack
-Hybrid Materials | HybridMaterials
-
 - Grenade - 
 Advanced Grenades | AdvancedGrenades
 Frostbomb  | Frostbomb
@@ -82,3 +76,8 @@ Bluescreen Protocol | Bluescreen
 Skull Mining | Skullmining
 Psionics | Psionics
 Elerium | Tech_Elerium
+Blacksite Vial | BlacksiteData
+Codex Brain | CodexBrainPt1
+Encrypted Codex Data | CodexBrainPt2
+Skulljack | Skulljack
+Hybrid Materials | HybridMaterials
